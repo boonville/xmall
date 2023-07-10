@@ -97,9 +97,9 @@ export default {
         border-radius: 10px;
       }
       .el-icon-caret-bottom {
-        position: absolute;
+        position: absolute; 
         right: -20px;
-        top: 25px;
+        top: 12px;
         font-size: 12px;
       }
     }
